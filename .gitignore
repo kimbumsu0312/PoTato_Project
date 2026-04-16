@@ -110,3 +110,9 @@ crashlytics-build.properties
 *.dylib
 *.bak
 *.backup
+
+# 프레젝트 리소스 및 셋팅
+/Potato_Project/[Ll]ibrary/
+/Potato_Project/[Tt]emp/
+/Assets/Project/Resources/
+/Potato_Project/UserSettings/
