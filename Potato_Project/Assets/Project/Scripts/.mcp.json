@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "serena": {
+            "command": "C:\\Users\\WAYNE\\.local\\bin\\uv.exe",
+            "args":[
+                "--directory",
+                "C:\\Serena",
+                "run",
+                "serena",
+                "start-mcp-server",
+                "--project",
+                "C:\\Project_Potato"
+            ]
+        }
+    }
+}
