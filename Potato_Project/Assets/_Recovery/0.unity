@@ -606,10 +606,6 @@ PrefabInstance:
       propertyPath: equipWeapon
       value: 
       objectReference: {fileID: 681251912}
-    - target: {fileID: 7789980970765574523, guid: 5c88d93d9899201418e17e7657110319, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
