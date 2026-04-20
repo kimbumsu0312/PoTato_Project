@@ -10,15 +10,26 @@ public class Monster : Character
 
     void Awake()
     {
+        //isDead = true;
         rigid = GetComponent <Rigidbody2D>();
         spriter = GetComponent<SpriteRenderer>();
     }
 
     void FixedUpdate()
     {
+        if(isDead)
+            return;
+
         Vector2 dirVec = target.position - rigid.position;
         Vector2 nextVec = dirVec.normalized * speed * Time.fixedDeltaTime;
         rigid.MovePosition(rigid.position + nextVec);
         rigid.linearVelocity = Vector2.zero;
+    }
+
+    void LateUpdate()
+    {
+        if(isDead)
+            return;
+        spriter.flipX = target.position.x < rigid.position.x;
     }
 }
