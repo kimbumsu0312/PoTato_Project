@@ -116,3 +116,6 @@ crashlytics-build.properties
 /Potato_Project/[Tt]emp/
 /Assets/Project/Resources/
 /Potato_Project/UserSettings/
+/Potato_Project/.mcp.json/
+/.serena/.gitignore/
+/.serena/project.yml/
