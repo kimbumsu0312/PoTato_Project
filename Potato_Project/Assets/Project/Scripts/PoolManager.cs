@@ -1,8 +1,12 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+public interface IPool
+{
+    void Clear();
+}
 
-public class ObjectPool<T> where T : Component
+public class ObjectPool<T> : IPool where T : Component
 {
    private readonly Stack<T> pool = new Stack<T>();
    private readonly Func<T> factory;
@@ -10,15 +14,15 @@ public class ObjectPool<T> where T : Component
    private readonly Action<T> onReturn;
 
    public int countInactive => pool.Count;
-   public ObjectPool(Func<T> _factory, Action<T> _onGet = null, Action<T> _onReturn = null, int _initialize = 0)
+   public ObjectPool(Func<T> factory, Action<T> onGet = null, Action<T> onReturn = null, int initialize = 0)
     {
-        factory = _factory ?? throw new ArgumentException(nameof(factory));
-        onGet = _onGet;
-        onReturn = _onReturn;
+        this.factory = factory ?? throw new ArgumentException(nameof(factory));
+        this.onGet = onGet;
+        this.onReturn = onReturn;
 
-        for(int i = 0; i < _initialize; i++)
+        for(int i = 0; i < initialize; i++)
         {
-            T obj = factory();
+            T obj = this.factory();
             obj.gameObject.SetActive(false);
             pool.Push(obj);
         }
@@ -45,11 +49,9 @@ public class ObjectPool<T> where T : Component
     {
         while(pool.Count > 0)
         {
-            T obj = pool.Pop();
-            if(null != obj)
-            {
+            var obj = pool.Pop();
+            if(obj != null)
                 UnityEngine.Object.Destroy(obj.gameObject);
-            }
         }
     }
 
@@ -62,6 +64,7 @@ public class PoolManager : MonoBehaviour
 
     private void Awake()
     {
+
         if(null != Instance && this != Instance)
         {
             Destroy(gameObject);
@@ -70,47 +73,45 @@ public class PoolManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
     }
-    public ObjectPool<T> CreatePool<T>(string _key, Func<T> _factory, Action<T> _onGet = null, Action<T> _onReturn = null, int _initialize = 0) where T : Component
+    public ObjectPool<T> CreatePool<T>(string key, Func<T> factory, Action<T> onGet = null, Action<T> onReturn = null, int initialize = 0) where T : Component
     {
-        if(pools.ContainsKey(_key))
+        if(pools.ContainsKey(key))
         {
-            Debug.LogWarning($"[PoolManager] Pool '{_key}' already exists.");
-            return GetPool<T>(_key);
-            
+            Debug.LogWarning($"[PoolManager] Pool '{key}' already exists.");
+            return GetPool<T>(key);
         }
-
-        var pool = new ObjectPool<T>(_factory,_onGet,_onReturn,_initialize);
-        pools[_key] = pool;
+        var pool = new ObjectPool<T>(factory,onGet,onReturn,initialize);
+        pools[key] = pool;
         return pool;
 
     }
 
-    public ObjectPool<T> GetPool<T>(string _key) where T : Component
+    public ObjectPool<T> GetPool<T>(string key) where T : Component
     {
-        if(pools.TryGetValue(_key, out object pool))
+        if(pools.TryGetValue(key, out object pool))
         {
             return pool as ObjectPool<T>;
         }
-        Debug.LogError($"[PoolManager] Pool '{_key}' not found.");
+        Debug.LogError($"[PoolManager] Pool '{key}' not found.");
         return null;
     }
 
-    public T Get<T>(string _key) where T : Component
+    public T Get<T>(string key) where T : Component
     {
-        return GetPool<T>(_key)?.Get();
+        return GetPool<T>(key)?.Get();
     }
     
-    public void Return<T>(string _key, T _obj) where T : Component
+    public void Return<T>(string key, T obj) where T : Component
     {
-       GetPool<T>(_key)?.Return(_obj);
+       GetPool<T>(key)?.Return(obj);
     }
 
-    public void ClearPool(string _key)
+   public void ClearPool(string key)
     {
-        if(pools.TryGetValue(_key, out object pool))
+        if(pools.TryGetValue(key, out object pool))
         {
-            (pool as ObjectPool<Component>)?.Clear();
-            pools.Remove(_key);
+            (pool as IPool)?.Clear();
+            pools.Remove(key);
         }
     }
 

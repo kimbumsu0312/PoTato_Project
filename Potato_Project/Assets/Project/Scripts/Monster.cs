@@ -8,6 +8,26 @@ public class Monster : Character
     Rigidbody2D rigid;
     SpriteRenderer spriter;
 
+
+    public void Init()
+    {
+        // 체력 초기화
+        isDead = false;
+        // 상태 초기화
+    }
+
+    public void ResetState()
+    {
+        // 코루틴도 초기화 해야하는 학습 후 정의 하자.
+        isDead = false;
+        gameObject.SetActive(false);
+    }
+
+    public void SetTarget(Rigidbody2D target)
+    {
+        this.target = target;
+    }
+
     void Awake()
     {
         //isDead = true;
