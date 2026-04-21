@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 6fec86ac360527d41bae4eb164f7327d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3219750616470793229
+    second: pngtree-cute-potato-characters-png-image_16008457_0
+  - first:
+      213: -1509768705574652440
+    second: pngtree-cute-potato-characters-png-image_16008457_1
+  - first:
+      213: -5318134835236727877
+    second: pngtree-cute-potato-characters-png-image_16008457_2
+  - first:
+      213: -7453512332312183402
+    second: pngtree-cute-potato-characters-png-image_16008457_3
+  - first:
+      213: -901700894242847776
+    second: pngtree-cute-potato-characters-png-image_16008457_4
+  - first:
+      213: -6576485175419442325
+    second: pngtree-cute-potato-characters-png-image_16008457_5
+  - first:
+      213: 4215028345407401974
+    second: pngtree-cute-potato-characters-png-image_16008457_6
+  - first:
+      213: 7896564556782302946
+    second: pngtree-cute-potato-characters-png-image_16008457_7
+  - first:
+      213: 5078417329038044744
+    second: pngtree-cute-potato-characters-png-image_16008457_8
+  - first:
+      213: -4313666952769478146
+    second: pngtree-cute-potato-characters-png-image_16008457_9
+  - first:
+      213: 351527557192466186
+    second: pngtree-cute-potato-characters-png-image_16008457_10
+  - first:
+      213: -2262988852902800574
+    second: pngtree-cute-potato-characters-png-image_16008457_11
+  - first:
+      213: 413450481119465930
+    second: pngtree-cute-potato-characters-png-image_16008457_12
+  - first:
+      213: 8864830419089259768
+    second: pngtree-cute-potato-characters-png-image_16008457_13
+  - first:
+      213: 1212081595545884990
+    second: pngtree-cute-potato-characters-png-image_16008457_14
+  - first:
+      213: -2488017445964158631
+    second: pngtree-cute-potato-characters-png-image_16008457_15
+  - first:
+      213: 950287239692819559
+    second: pngtree-cute-potato-characters-png-image_16008457_16
+  - first:
+      213: 9163706558272900007
+    second: pngtree-cute-potato-characters-png-image_16008457_17
+  - first:
+      213: 7640864555864599051
+    second: pngtree-cute-potato-characters-png-image_16008457_18
+  - first:
+      213: 7186340918591654870
+    second: pngtree-cute-potato-characters-png-image_16008457_19
+  - first:
+      213: -8921117341589871468
+    second: pngtree-cute-potato-characters-png-image_16008457_20
+  - first:
+      213: 876308421031105388
+    second: pngtree-cute-potato-characters-png-image_16008457_21
+  - first:
+      213: -4438744112412552231
+    second: pngtree-cute-potato-characters-png-image_16008457_22
+  - first:
+      213: 2168689086987111076
+    second: pngtree-cute-potato-characters-png-image_16008457_23
+  - first:
+      213: 4650375511116418765
+    second: pngtree-cute-potato-characters-png-image_16008457_24
+  - first:
+      213: 6042095170243669028
+    second: pngtree-cute-potato-characters-png-image_16008457_25
+  - first:
+      213: 1108121332223562228
+    second: pngtree-cute-potato-characters-png-image_16008457_26
+  - first:
+      213: 5645586323896143241
+    second: pngtree-cute-potato-characters-png-image_16008457_27
+  - first:
+      213: -5659070971543248979
+    second: pngtree-cute-potato-characters-png-image_16008457_28
+  - first:
+      213: 7850465583930493014
+    second: pngtree-cute-potato-characters-png-image_16008457_29
+  - first:
+      213: 1776356405527284886
+    second: pngtree-cute-potato-characters-png-image_16008457_30
+  - first:
+      213: -3288289756809388700
+    second: pngtree-cute-potato-characters-png-image_16008457_31
+  - first:
+      213: 4287447265261176409
+    second: pngtree-cute-potato-characters-png-image_16008457_32
+  - first:
+      213: 4876223565689248215
+    second: pngtree-cute-potato-characters-png-image_16008457_33
+  - first:
+      213: -8942223324275225297
+    second: pngtree-cute-potato-characters-png-image_16008457_34
+  - first:
+      213: -1914361124843553146
+    second: pngtree-cute-potato-characters-png-image_16008457_35
+  - first:
+      213: -689212806997425309
+    second: pngtree-cute-potato-characters-png-image_16008457_36
+  - first:
+      213: -675190335590645796
+    second: pngtree-cute-potato-characters-png-image_16008457_37
+  - first:
+      213: 1751113373825703342
+    second: pngtree-cute-potato-characters-png-image_16008457_38
+  - first:
+      213: -7212275616604904038
+    second: pngtree-cute-potato-characters-png-image_16008457_39
+  - first:
+      213: 969271299340256205
+    second: pngtree-cute-potato-characters-png-image_16008457_40
+  - first:
+      213: -3040857395317515698
+    second: pngtree-cute-potato-characters-png-image_16008457_41
+  - first:
+      213: 3780136141872142431
+    second: pngtree-cute-potato-characters-png-image_16008457_42
+  - first:
+      213: 5273638028619137014
+    second: pngtree-cute-potato-characters-png-image_16008457_43
+  - first:
+      213: -6190089985509126292
+    second: pngtree-cute-potato-characters-png-image_16008457_44
+  - first:
+      213: -5874374300271483466
+    second: pngtree-cute-potato-characters-png-image_16008457_45
+  - first:
+      213: -8952390868699191027
+    second: pngtree-cute-potato-characters-png-image_16008457_46
+  - first:
+      213: -8028863136610149369
+    second: pngtree-cute-potato-characters-png-image_16008457_47
+  - first:
+      213: 2327652023937543827
+    second: pngtree-cute-potato-characters-png-image_16008457_48
+  - first:
+      213: -6362447054316658991
+    second: pngtree-cute-potato-characters-png-image_16008457_49
+  - first:
+      213: 4301792870654360163
+    second: pngtree-cute-potato-characters-png-image_16008457_50
+  - first:
+      213: 859076393632555579
+    second: pngtree-cute-potato-characters-png-image_16008457_51
+  - first:
+      213: 2449901776136369866
+    second: pngtree-cute-potato-characters-png-image_16008457_52
+  - first:
+      213: -447936613113210054
+    second: pngtree-cute-potato-characters-png-image_16008457_53
+  - first:
+      213: 5854791189037602154
+    second: pngtree-cute-potato-characters-png-image_16008457_54
+  - first:
+      213: 7211261884228316325
+    second: pngtree-cute-potato-characters-png-image_16008457_55
+  - first:
+      213: 257229100693744276
+    second: pngtree-cute-potato-characters-png-image_16008457_56
+  - first:
+      213: -7750036414972708770
+    second: pngtree-cute-potato-characters-png-image_16008457_57
+  - first:
+      213: -8176198916563344550
+    second: pngtree-cute-potato-characters-png-image_16008457_58
+  - first:
+      213: -7477098480966100446
+    second: pngtree-cute-potato-characters-png-image_16008457_59
+  - first:
+      213: -3200677529920458434
+    second: pngtree-cute-potato-characters-png-image_16008457_60
+  - first:
+      213: 6327437277589837124
+    second: pngtree-cute-potato-characters-png-image_16008457_61
+  - first:
+      213: 4950522272912406280
+    second: pngtree-cute-potato-characters-png-image_16008457_62
+  - first:
+      213: 2380735308301471276
+    second: pngtree-cute-potato-characters-png-image_16008457_63
+  - first:
+      213: 7723647585027390102
+    second: pngtree-cute-potato-characters-png-image_16008457_64
+  - first:
+      213: -96579829041030520
+    second: pngtree-cute-potato-characters-png-image_16008457_65
+  - first:
+      213: -3338587214250730551
+    second: pngtree-cute-potato-characters-png-image_16008457_66
+  - first:
+      213: -2094090407280520174
+    second: pngtree-cute-potato-characters-png-image_16008457_67
+  - first:
+      213: 7805168519117274628
+    second: pngtree-cute-potato-characters-png-image_16008457_68
+  - first:
+      213: -998034063648138144
+    second: pngtree-cute-potato-characters-png-image_16008457_69
+  - first:
+      213: -3864157548888268034
+    second: pngtree-cute-potato-characters-png-image_16008457_70
+  - first:
+      213: -2430017006533219000
+    second: pngtree-cute-potato-characters-png-image_16008457_71
+  - first:
+      213: -8678436064932492711
+    second: pngtree-cute-potato-characters-png-image_16008457_72
+  - first:
+      213: -6190560839038297724
+    second: pngtree-cute-potato-characters-png-image_16008457_73
+  - first:
+      213: -270575861691637059
+    second: pngtree-cute-potato-characters-png-image_16008457_74
+  - first:
+      213: 5662767676431849679
+    second: pngtree-cute-potato-characters-png-image_16008457_75
+  - first:
+      213: -1731474551037083798
+    second: pngtree-cute-potato-characters-png-image_16008457_76
+  - first:
+      213: 4746519684203748859
+    second: pngtree-cute-potato-characters-png-image_16008457_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2610702adeac20800000000000000
+      internalID: 3219750616470793229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5b8338c593c0be0800000000000000
+      internalID: -1509768705574652440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb395164b803236b0800000000000000
+      internalID: -5318134835236727877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69df98f260ecf8890800000000000000
+      internalID: -7453512332312183402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3c00960d38c73f0800000000000000
+      internalID: -901700894242847776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6080a391abb4a0800000000000000
+      internalID: -6576485175419442325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe53ea2f9ce7a30800000000000000
+      internalID: 4215028345407401974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6f2f860ab369d60800000000000000
+      internalID: 7896564556782302946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e208677a92a7640800000000000000
+      internalID: 5078417329038044744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef165d0e2c6c224c0800000000000000
+      internalID: -4313666952769478146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb7376370e0e400800000000000000
+      internalID: 351527557192466186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2435f0cc0af3890e0800000000000000
+      internalID: -2262988852902800574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac11753a50fdcb500800000000000000
+      internalID: 413450481119465930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc74eb5c44360b70800000000000000
+      internalID: 8864830419089259768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e391d4d0acd22d010800000000000000
+      internalID: 1212081595545884990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959e452a059c87dd0800000000000000
+      internalID: -2488017445964158631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1a7ca539103d00800000000000000
+      internalID: 950287239692819559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab06c730960c2f70800000000000000
+      internalID: 9163706558272900007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aae2d94ddc90a60800000000000000
+      internalID: 7640864555864599051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_19
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db82879df20bb360800000000000000
+      internalID: 7186340918591654870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49465fe3b03d13480800000000000000
+      internalID: -8921117341589871468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c631e35bdd5492c00800000000000000
+      internalID: 876308421031105388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2278
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d31bca4fb96662c0800000000000000
+      internalID: -4438744112412552231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa02220c3bb81e10800000000000000
+      internalID: 2168689086987111076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_24
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2278
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce054c73e3798040800000000000000
+      internalID: 4650375511116418765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c2a718b85d9d350800000000000000
+      internalID: 6042095170243669028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_26
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2278
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d7370b76d06f00800000000000000
+      internalID: 1108121332223562228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d02a899d6295e40800000000000000
+      internalID: 5645586323896143241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_28
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 2278
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf90763fe0f671b0800000000000000
+      internalID: -5659070971543248979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6584b93ead472fc60800000000000000
+      internalID: 7850465583930493014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c81f14db2e6a810800000000000000
+      internalID: 1776356405527284886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d12d663e5ad52d0800000000000000
+      internalID: -3288289756809388700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956cc176292108b30800000000000000
+      internalID: 4287447265261176409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_33
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9db466f73dba340800000000000000
+      internalID: 4876223565689248215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcc56b347d6e380800000000000000
+      internalID: -8942223324275225297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_35
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ef1ed13b2de65e0800000000000000
+      internalID: -1914361124843553146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_36
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c4488a9c6f66f0800000000000000
+      internalID: -689212806997425309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfb75397fd31a6f0800000000000000
+      internalID: -675190335590645796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2065
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1150f5543d4810800000000000000
+      internalID: 1751113373825703342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ad0af989d8eb90800000000000000
+      internalID: -7212275616604904038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_40
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc348208c1b837d00800000000000000
+      internalID: 969271299340256205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_41
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2065
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ada736f44bcc5d0800000000000000
+      internalID: -3040857395317515698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_42
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2086
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5897e20bcdb57430800000000000000
+      internalID: 3780136141872142431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_43
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffb5d998d9bf2940800000000000000
+      internalID: 5273638028619137014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_44
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2065
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f860664f1681aa0800000000000000
+      internalID: -6190089985509126292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_45
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2086
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b562aa92b70a7ea0800000000000000
+      internalID: -5874374300271483466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_46
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ebbccfe7b2c380800000000000000
+      internalID: -8952390868699191027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_47
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2065
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9f18148fb39090800000000000000
+      internalID: -8028863136610149369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_48
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2086
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e248fee2b7d4020800000000000000
+      internalID: 2327652023937543827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1967
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de99312d1c04b7a0800000000000000
+      internalID: -6362447054316658991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a39a0f2d903bb30800000000000000
+      internalID: 4301792870654360163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_51
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1967
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32646dad6d0ceb00800000000000000
+      internalID: 859076393632555579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6f43d6faccff120800000000000000
+      internalID: 2449901776136369866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_53
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1967
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bde7d060c98c9f0800000000000000
+      internalID: -447936613113210054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_54
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a655ca00195604150800000000000000
+      internalID: 5854791189037602154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_55
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1967
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac2ebf0a7c831460800000000000000
+      internalID: 7211261884228316325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_56
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a6eb4118cd19300800000000000000
+      internalID: 257229100693744276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_57
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b53921f6527490800000000000000
+      internalID: -7750036414972708770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ee4d976e488e80800000000000000
+      internalID: -8176198916563344550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 111
+        width: 2370
+        height: 1781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a17630c820c3890800000000000000
+      internalID: -7477098480966100446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_60
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3134849eb8e493d0800000000000000
+      internalID: -3200677529920458434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4459e450ea29fc750800000000000000
+      internalID: 6327437277589837124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8077a9937c9c3b440800000000000000
+      internalID: 4950522272912406280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_63
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e0a8336221a0120800000000000000
+      internalID: 2380735308301471276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_64
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7cd39e88ef2b60800000000000000
+      internalID: 7723647585027390102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a9a8d3821e8aef0800000000000000
+      internalID: -96579829041030520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_66
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9ce20e94faa1d0800000000000000
+      internalID: -3338587214250730551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_67
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214dd7a9edb40f2e0800000000000000
+      internalID: -2094090407280520174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_68
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40efb022a67815c60800000000000000
+      internalID: 7805168519117274628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c53829e454622f0800000000000000
+      internalID: -998034063648138144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ee56be21cf5ac0800000000000000
+      internalID: -3864157548888268034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_71
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ded674868d64ed0800000000000000
+      internalID: -2430017006533219000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_72
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a82c71160009780800000000000000
+      internalID: -8678436064932492711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_73
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899da447b5b61aa0800000000000000
+      internalID: -6190560839038297724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_74
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22317ffa8be3cf0800000000000000
+      internalID: -270575861691637059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_75
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d847f231369e40800000000000000
+      internalID: 5662767676431849679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_76
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3ecfc11198f7e0800000000000000
+      internalID: -1731474551037083798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cute-potato-characters-png-image_16008457_77
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1d5031860fd140800000000000000
+      internalID: 4746519684203748859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-cute-potato-characters-png-image_16008457_0: 3219750616470793229
+      pngtree-cute-potato-characters-png-image_16008457_1: -1509768705574652440
+      pngtree-cute-potato-characters-png-image_16008457_10: 351527557192466186
+      pngtree-cute-potato-characters-png-image_16008457_11: -2262988852902800574
+      pngtree-cute-potato-characters-png-image_16008457_12: 413450481119465930
+      pngtree-cute-potato-characters-png-image_16008457_13: 8864830419089259768
+      pngtree-cute-potato-characters-png-image_16008457_14: 1212081595545884990
+      pngtree-cute-potato-characters-png-image_16008457_15: -2488017445964158631
+      pngtree-cute-potato-characters-png-image_16008457_16: 950287239692819559
+      pngtree-cute-potato-characters-png-image_16008457_17: 9163706558272900007
+      pngtree-cute-potato-characters-png-image_16008457_18: 7640864555864599051
+      pngtree-cute-potato-characters-png-image_16008457_19: 7186340918591654870
+      pngtree-cute-potato-characters-png-image_16008457_2: -5318134835236727877
+      pngtree-cute-potato-characters-png-image_16008457_20: -8921117341589871468
+      pngtree-cute-potato-characters-png-image_16008457_21: 876308421031105388
+      pngtree-cute-potato-characters-png-image_16008457_22: -4438744112412552231
+      pngtree-cute-potato-characters-png-image_16008457_23: 2168689086987111076
+      pngtree-cute-potato-characters-png-image_16008457_24: 4650375511116418765
+      pngtree-cute-potato-characters-png-image_16008457_25: 6042095170243669028
+      pngtree-cute-potato-characters-png-image_16008457_26: 1108121332223562228
+      pngtree-cute-potato-characters-png-image_16008457_27: 5645586323896143241
+      pngtree-cute-potato-characters-png-image_16008457_28: -5659070971543248979
+      pngtree-cute-potato-characters-png-image_16008457_29: 7850465583930493014
+      pngtree-cute-potato-characters-png-image_16008457_3: -7453512332312183402
+      pngtree-cute-potato-characters-png-image_16008457_30: 1776356405527284886
+      pngtree-cute-potato-characters-png-image_16008457_31: -3288289756809388700
+      pngtree-cute-potato-characters-png-image_16008457_32: 4287447265261176409
+      pngtree-cute-potato-characters-png-image_16008457_33: 4876223565689248215
+      pngtree-cute-potato-characters-png-image_16008457_34: -8942223324275225297
+      pngtree-cute-potato-characters-png-image_16008457_35: -1914361124843553146
+      pngtree-cute-potato-characters-png-image_16008457_36: -689212806997425309
+      pngtree-cute-potato-characters-png-image_16008457_37: -675190335590645796
+      pngtree-cute-potato-characters-png-image_16008457_38: 1751113373825703342
+      pngtree-cute-potato-characters-png-image_16008457_39: -7212275616604904038
+      pngtree-cute-potato-characters-png-image_16008457_4: -901700894242847776
+      pngtree-cute-potato-characters-png-image_16008457_40: 969271299340256205
+      pngtree-cute-potato-characters-png-image_16008457_41: -3040857395317515698
+      pngtree-cute-potato-characters-png-image_16008457_42: 3780136141872142431
+      pngtree-cute-potato-characters-png-image_16008457_43: 5273638028619137014
+      pngtree-cute-potato-characters-png-image_16008457_44: -6190089985509126292
+      pngtree-cute-potato-characters-png-image_16008457_45: -5874374300271483466
+      pngtree-cute-potato-characters-png-image_16008457_46: -8952390868699191027
+      pngtree-cute-potato-characters-png-image_16008457_47: -8028863136610149369
+      pngtree-cute-potato-characters-png-image_16008457_48: 2327652023937543827
+      pngtree-cute-potato-characters-png-image_16008457_49: -6362447054316658991
+      pngtree-cute-potato-characters-png-image_16008457_5: -6576485175419442325
+      pngtree-cute-potato-characters-png-image_16008457_50: 4301792870654360163
+      pngtree-cute-potato-characters-png-image_16008457_51: 859076393632555579
+      pngtree-cute-potato-characters-png-image_16008457_52: 2449901776136369866
+      pngtree-cute-potato-characters-png-image_16008457_53: -447936613113210054
+      pngtree-cute-potato-characters-png-image_16008457_54: 5854791189037602154
+      pngtree-cute-potato-characters-png-image_16008457_55: 7211261884228316325
+      pngtree-cute-potato-characters-png-image_16008457_56: 257229100693744276
+      pngtree-cute-potato-characters-png-image_16008457_57: -7750036414972708770
+      pngtree-cute-potato-characters-png-image_16008457_58: -8176198916563344550
+      pngtree-cute-potato-characters-png-image_16008457_59: -7477098480966100446
+      pngtree-cute-potato-characters-png-image_16008457_6: 4215028345407401974
+      pngtree-cute-potato-characters-png-image_16008457_60: -3200677529920458434
+      pngtree-cute-potato-characters-png-image_16008457_61: 6327437277589837124
+      pngtree-cute-potato-characters-png-image_16008457_62: 4950522272912406280
+      pngtree-cute-potato-characters-png-image_16008457_63: 2380735308301471276
+      pngtree-cute-potato-characters-png-image_16008457_64: 7723647585027390102
+      pngtree-cute-potato-characters-png-image_16008457_65: -96579829041030520
+      pngtree-cute-potato-characters-png-image_16008457_66: -3338587214250730551
+      pngtree-cute-potato-characters-png-image_16008457_67: -2094090407280520174
+      pngtree-cute-potato-characters-png-image_16008457_68: 7805168519117274628
+      pngtree-cute-potato-characters-png-image_16008457_69: -998034063648138144
+      pngtree-cute-potato-characters-png-image_16008457_7: 7896564556782302946
+      pngtree-cute-potato-characters-png-image_16008457_70: -3864157548888268034
+      pngtree-cute-potato-characters-png-image_16008457_71: -2430017006533219000
+      pngtree-cute-potato-characters-png-image_16008457_72: -8678436064932492711
+      pngtree-cute-potato-characters-png-image_16008457_73: -6190560839038297724
+      pngtree-cute-potato-characters-png-image_16008457_74: -270575861691637059
+      pngtree-cute-potato-characters-png-image_16008457_75: 5662767676431849679
+      pngtree-cute-potato-characters-png-image_16008457_76: -1731474551037083798
+      pngtree-cute-potato-characters-png-image_16008457_77: 4746519684203748859
+      pngtree-cute-potato-characters-png-image_16008457_8: 5078417329038044744
+      pngtree-cute-potato-characters-png-image_16008457_9: -4313666952769478146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

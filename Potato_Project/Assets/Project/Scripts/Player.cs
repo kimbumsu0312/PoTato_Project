@@ -46,6 +46,7 @@ public class Player : Character
     void FixedUpdate()
     {
         stateMachine.FixedUpdate();
+
     }
 
     void OnMove(InputValue value)
