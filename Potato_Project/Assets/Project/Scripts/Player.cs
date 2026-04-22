@@ -1,7 +1,7 @@
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
-public class Player : Character
+public class Player : Character, ITakeDamage
 {
     public PlayerStateMachine stateMachine;
     public Vector2 inputVec;
@@ -37,7 +37,6 @@ public class Player : Character
     void Update()
     {
         stateMachine.Update();
-
         if (isDead)
         {
             anim.SetTrigger("Dead");
@@ -49,6 +48,15 @@ public class Player : Character
 
     }
 
+    public void TakeDamage(int damage)
+    {
+        GameManager.Instance.curHealth -= damage;
+        if(GameManager.Instance.curHealth < 0)
+        {
+            GameManager.Instance.curHealth = 0;
+            isDead = true;
+        }
+    }
     void OnMove(InputValue value)
     {
         inputVec = value.Get<Vector2>();
