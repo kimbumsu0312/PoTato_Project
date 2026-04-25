@@ -31,8 +31,29 @@ public class GameManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
     }
+    private void OnEnable()
+    {
+        WaveManager.OnStageComplete += HandleStageClear;
+    }
+    private void OnDisable() 
+    {
+        WaveManager.OnStageComplete -= HandleStageClear;
+    }
 
     public void SeleteDugeon(DugeonType DugeonType)
     {
     }
+private void HandleStageClear()
+      {
+          Debug.Log("Stage Clear!");
+          // UI 표시, 보상 지급, 씬 전환 등
+      }
+
+      private void HandleGameOver()
+      {
+        Debug.Log("Game Over!");
+        // UI 표시
+      }
+
+
 }

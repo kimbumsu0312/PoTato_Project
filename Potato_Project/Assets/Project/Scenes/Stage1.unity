@@ -119,55 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &320578508
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 320578510}
-  - component: {fileID: 320578509}
-  m_Layer: 0
-  m_Name: MonsterSpawner
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &320578509
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 320578508}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ced8745596621664889c2a6717e469e0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MonsterSpawner
-  monsterPrefab: {fileID: 4439238771787776461, guid: 41f98ad9698728f45884c223e282cb80, type: 3}
-  spawnPoints:
-  - {fileID: 458544995}
-  - {fileID: 1668304756}
-  target: {fileID: 1395866123123832039}
---- !u!4 &320578510
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 320578508}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.60896, y: 0.94377995, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &458544994
 GameObject:
   m_ObjectHideFlags: 0
@@ -336,7 +287,7 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!1 &855004866
+--- !u!1 &669933514
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -344,34 +295,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 855004868}
-  - component: {fileID: 855004867}
+  - component: {fileID: 669933516}
+  - component: {fileID: 669933515}
   m_Layer: 0
-  m_Name: SceneLoader
+  m_Name: WaveManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &855004867
+--- !u!114 &669933515
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 855004866}
+  m_GameObject: {fileID: 669933514}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: daf1d6e4738ace94c81b1ad2fb08d09c, type: 3}
+  m_Script: {fileID: 11500000, guid: 6a5590b7ba54f374d8023bc466fffe25, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
---- !u!4 &855004868
+  m_EditorClassIdentifier: Assembly-CSharp::WaveManager
+  stageData: {fileID: 11400000, guid: 7fface0827cba2d48b70209c2fae8aa9, type: 2}
+  spawner: {fileID: 1720972675}
+--- !u!4 &669933516
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 855004866}
+  m_GameObject: {fileID: 669933514}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.61137, y: 0.21586, z: 0}
@@ -411,6 +364,58 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1720972674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1720972676}
+  - component: {fileID: 1720972675}
+  m_Layer: 0
+  m_Name: MonsterSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1720972675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720972674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced8745596621664889c2a6717e469e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterSpawner
+  monsterEntries:
+  - key: Zombie0
+    prefab: {fileID: 4439238771787776461, guid: 41f98ad9698728f45884c223e282cb80, type: 3}
+    initialSize: 2
+  spawnPoints:
+  - {fileID: 458544995}
+  - {fileID: 1668304756}
+  Player: {fileID: 1395866123123832039}
+--- !u!4 &1720972676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720972674}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.61137, y: 0.21586, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2030445571
 GameObject:
   m_ObjectHideFlags: 0
@@ -431,7 +436,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &2030445572
 Animator:
   serializedVersion: 7
@@ -567,7 +572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fcd588b6f1560f47b18207895690c56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::VillagePortal
-  sceneLoader: {fileID: 855004867}
+  sceneLoader: {fileID: 0}
   villageSceneIndex: 1
   delay: 1.5
 --- !u!61 &2030445577
@@ -1039,9 +1044,9 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 479022851}
-  - {fileID: 320578510}
   - {fileID: 1280275748717782072}
   - {fileID: 458544995}
   - {fileID: 1668304756}
   - {fileID: 2030445574}
-  - {fileID: 855004868}
+  - {fileID: 1720972676}
+  - {fileID: 669933516}

@@ -29,6 +29,7 @@ public class Player : Character, ITakeDamage
         stateMachine.AddState(new PlayerMove());
         stateMachine.AddState(new PlayerDash());
         stateMachine.AddState(new PlayerAttack());
+        GameManager.Instance.player = this;
     }
     void Start()
     {

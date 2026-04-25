@@ -1,37 +1,64 @@
 using UnityEngine;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+[Serializable]
+public class MonsterPoolEntry
+{
+    public string key;
+    public Monster prefab;
+    public int initialSize = 2;
+}
 
 public class MonsterSpawner : MonoBehaviour
 {
-    [SerializeField] private Monster monsterPrefab;
+    [SerializeField] private MonsterPoolEntry[] monsterEntries;
     [SerializeField] private Transform[] spawnPoints;
+    [SerializeField] private Rigidbody2D Player;
 
-    public Rigidbody2D target;
-
-    private const string MONSTER_KEY = "Monster";
+    private int spawnIndex;
+    public event Action<Monster> OnMonsterSpawned;
 
     private void Awake()
     {
-        PoolManager.Instance.CreatePool<Monster>(
-            MONSTER_KEY, factory: () => Instantiate(monsterPrefab), 
-            onGet: m => m.Init(), onReturn: m => m.ResetState(),initialize: 2);
+        foreach (var entry in monsterEntries)
+        {
+            var prefab = entry.prefab;
+            PoolManager.Instance.CreatePool<Monster>(
+                entry.key,
+                factory: () => Instantiate(prefab),
+                onGet: m => m.Init(),
+                onReturn: m => m.ResetState(),
+                initialize: entry.initialSize);
+        }
     }
 
-    private void Start()
+    // WaveManager가 호출 — monsterKey 종류의 몬스터를 count만큼 interval 간격으로 스폰
+    public IEnumerator SpawnWave(string monsterKey, int count, float interval)
     {
-        Spawn(0);
-        Spawn(1);
+        for (int i = 0; i < count; i++)
+        {
+            Monster monster = Spawn(monsterKey);
+            OnMonsterSpawned?.Invoke(monster);
+            yield return new WaitForSeconds(interval);
+        }
     }
 
-    public void Spawn(int index)
+    private Monster Spawn(string monsterKey)
     {
-        var monster = PoolManager.Instance.Get<Monster>(MONSTER_KEY);
-        monster.SetTarget(target);
-        monster.transform.position = spawnPoints[index].position;
+        var monster = PoolManager.Instance.Get<Monster>(monsterKey);
+        monster.poolKey = monsterKey;
+        monster.SetTarget(GameManager.Instance.player.GetComponent<Rigidbody2D>());
+        
+        monster.transform.position = spawnPoints[spawnIndex % spawnPoints.Length].position;
+        spawnIndex++;
+        return monster;
     }
 
     private void OnDestroy()
     {
-        PoolManager.Instance.ClearPool(MONSTER_KEY);
+        foreach (var entry in monsterEntries)
+            PoolManager.Instance.ClearPool(entry.key);
     }
-
 }
